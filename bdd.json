@@ -1,0 +1,43 @@
+{
+    "commandes": "Les commandes opérationelles sont les suivantes: \n ?kiss : permet d'envoyer une image de bisous à quelqu'un \n ?shoot : permet d'envoyer une image de tir à quelqu'un \n ?play music link \n ?leave \n ?add_kiss \n ?hug \n ?add_hub",
+    
+    "hug": {
+        "0": "https://tenor.com/view/milk-and-mocha-hug-cute-kawaii-love-gif-12535134",
+        "1": "https://thumbs.gfycat.com/WellinformedUnlawfulCopperhead-mobile.mp4",
+        "nombre": 2
+    },
+    "kiss": {
+        "0": "https://tenor.com/view/poke-cheek-kiss-cute-cat-gif-15556555",
+        "1": "https://tenor.com/view/love-you-cheek-kiss-kisses-blush-gif-15049421",
+        "2": "https://tenor.com/view/anime-kawaii-love-kiss-flying-kiss-gif-12542720",
+        "3": " https://tenor.com/view/anime-kiss-gif-13221050",
+        "4": " https://tenor.com/view/love-sweet-anime-chunibyo-kiss-gif-12879850",
+        "5": "https://tenor.com/view/milk-and-mocha-kiss-hug-love-line-gif-15833396",
+        "nombre": 6
+    },
+    "shoot": {
+        "0": "https://tenor.com/view/gun-gale-online-ggo-anime-shoot-recoil-gif-17709589",
+        "1": " https://tenor.com/view/fate-series-archer-shoot-anime-gif-16655516",
+        "nombre": 2
+    },
+    "YT": {
+        "link": "['YT link', 'YT ling 2']"
+    },
+    "rep": {
+        "0": "Oui",
+        "1": "Absolument!",
+        "2": "J'en suis sur a 100%",
+        "3": "Sort de ma vie",
+        "4": "Je suis tout à fait d'accord avec toi",
+        "5": "Certainement",
+        "6": "Il faut garder espoir !",
+        "7": "Sale enculé",
+        "nombre": 8
+    },
+    "bt": {
+        "file": [
+            "https://www.youtube.com/watch?v=DUZCedq9a4Q",
+            "https://www.youtube.com/watch?v=GHSX1lBVDEY&list=RDSJki9Zjlp6M&index=2"
+        ]
+    }
+}
