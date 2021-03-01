@@ -11,7 +11,7 @@ const { send } = require('process')
 
 
 client.on("ready", async () => {
-    console.log("Active");
+    console.log("Activeaa");
     client.user.setStatus("online");
     client.user.setActivity("la vie" , {type : 'WATCHING'});
     });
