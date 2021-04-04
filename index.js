@@ -95,7 +95,7 @@ client.on('message', async message => {
         message.channel.send(HelpEmbed)
     }
 
-
+/*
 
  if(message.content.startsWith(`${PREFIX}play`)) {
         const voiceChannel = message.member.voice.channel
@@ -130,7 +130,7 @@ client.on('message', async message => {
     }
 
 })
-
+*/
 if(message.content.startsWith("es-ce que")){
     
     message.channel.send("\n" + bdd["rep"][Math.random(8)]);
